@@ -2,3 +2,5 @@
 *.pt
 *.tar.gz
 wandb/
+AGENTS.md
+todo.md
