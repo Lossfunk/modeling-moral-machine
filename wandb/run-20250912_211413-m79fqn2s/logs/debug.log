@@ -1,0 +1,5 @@
+2025-09-12 21:14:13,557 INFO    MainThread:94675 [wandb_init.py:setup_run_log_directory():686] Logging user logs to /Users/mayank/repos/moral_machine/wandb/run-20250912_211413-m79fqn2s/logs/debug.log
+2025-09-12 21:14:13,557 INFO    MainThread:94675 [wandb_init.py:setup_run_log_directory():687] Logging internal logs to /Users/mayank/repos/moral_machine/wandb/run-20250912_211413-m79fqn2s/logs/debug-internal.log
+2025-09-12 21:14:13,557 INFO    MainThread:94675 [wandb_init.py:init():813] calling init triggers
+2025-09-12 21:14:13,557 INFO    MainThread:94675 [wandb_init.py:init():818] wandb.init called with sweep_config: {}
+config: {'model_type': 'Linear', 'data_file_path': 'data_tensor_2.pt', 'epochs': 10, 'batch_size': 2048, 'learning_rate': 0.0001, 'warmup_ratio': 0.1, 'train_split_ratio': 0.9, 'project_name': 'moral-reasoning-models', 'run_name': 'linear_baseline_395', '_wandb': {}}

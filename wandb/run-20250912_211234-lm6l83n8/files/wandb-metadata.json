@@ -1,0 +1,37 @@
+{
+  "os": "macOS-15.6.1-arm64-arm-64bit-Mach-O",
+  "python": "CPython 3.13.5",
+  "startedAt": "2025-09-12T15:42:34.934316Z",
+  "program": "/Users/mayank/repos/moral_machine/linear_regression.ipynb",
+  "codePath": "linear_regression.ipynb",
+  "codePathLocal": "linear_regression.ipynb",
+  "git": {
+    "remote": "git@github.com:Lossfunk/modeling-moral-machine.git",
+    "commit": "5d45420430c452dbaa717a571f1beefe0cbbce60"
+  },
+  "email": "themayankgoel28@gmail.com",
+  "root": "/Users/mayank/repos/moral_machine",
+  "host": "Mayanks-MacBook-Air.local",
+  "executable": "/opt/miniconda3/envs/dharma/bin/python",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "245107195904",
+      "used": "168714518528"
+    }
+  },
+  "memory": {
+    "total": "8589934592"
+  },
+  "apple": {
+    "name": "Apple M1",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 7,
+    "memoryGb": 8,
+    "swapTotalBytes": "6442450944",
+    "ramTotalBytes": "8589934592"
+  },
+  "writerId": "opliuejvab2wx7xbx724mvo3hc8gy4ks"
+}

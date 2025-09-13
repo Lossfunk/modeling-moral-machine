@@ -9,6 +9,8 @@ Run again
 
 # Random ideas
 - use moral philosophers as part of the prompt
+- similarity score to measure how dilemma-y a dilemma is
+
 
 # notes
 - random seems to get about 0.6 accuracy (why???)

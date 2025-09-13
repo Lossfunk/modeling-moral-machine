@@ -1,0 +1,78 @@
+_wandb:
+    value:
+        cli_version: 0.21.4
+        e:
+            qfyf8zwt7b5ovv9k1kpidebljj0aeuq9:
+                apple:
+                    ecpuCores: 4
+                    gpuCores: 7
+                    memoryGb: 8
+                    name: Apple M1
+                    pcpuCores: 4
+                    ramTotalBytes: "8589934592"
+                    swapTotalBytes: "6442450944"
+                codePath: linear_regression.ipynb
+                codePathLocal: linear_regression.ipynb
+                cpu_count: 8
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "245107195904"
+                        used: "168719368192"
+                email: themayankgoel28@gmail.com
+                executable: /opt/miniconda3/envs/dharma/bin/python
+                git:
+                    commit: 5d45420430c452dbaa717a571f1beefe0cbbce60
+                    remote: git@github.com:Lossfunk/modeling-moral-machine.git
+                host: Mayanks-MacBook-Air.local
+                memory:
+                    total: "8589934592"
+                os: macOS-15.6.1-arm64-arm-64bit-Mach-O
+                program: /Users/mayank/repos/moral_machine/linear_regression.ipynb
+                python: CPython 3.13.5
+                root: /Users/mayank/repos/moral_machine
+                startedAt: "2025-09-12T15:45:09.685615Z"
+                writerId: qfyf8zwt7b5ovv9k1kpidebljj0aeuq9
+        m: []
+        python_version: 3.13.5
+        t:
+            "1":
+                - 1
+                - 11
+                - 49
+                - 105
+            "2":
+                - 1
+                - 11
+                - 49
+                - 105
+            "3":
+                - 1
+                - 2
+                - 13
+                - 16
+            "4": 3.13.5
+            "5": 0.21.4
+            "6": 4.55.4
+            "8":
+                - 1
+            "12": 0.21.4
+            "13": darwin-arm64
+batch_size:
+    value: 2048
+data_file_path:
+    value: data_tensor_2.pt
+epochs:
+    value: 10
+learning_rate:
+    value: 0.0001
+model_type:
+    value: Linear
+project_name:
+    value: moral-reasoning-models
+run_name:
+    value: linear_baseline_940
+train_split_ratio:
+    value: 0.9
+warmup_ratio:
+    value: 0.1
