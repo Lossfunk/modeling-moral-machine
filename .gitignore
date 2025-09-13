@@ -1,3 +1,4 @@
 *.csv
 *.pt
 *.tar.gz
+wandb/
