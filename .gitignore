@@ -1,6 +1,7 @@
 *.csv
 *.pt
 *.tar.gz
+*.pkl
 wandb/
 AGENTS.md
 todo.md
