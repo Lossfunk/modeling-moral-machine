@@ -2,8 +2,10 @@
 *.pt
 *.tar.gz
 *.pkl
+*.zip
 wandb/
 AGENTS.md
 todo.md
-!sample_filtered_responses_sorted.csv
 .DS_Store
+!sample_filtered_responses_sorted.csv
+!data.zip
