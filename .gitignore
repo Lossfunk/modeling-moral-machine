@@ -10,6 +10,8 @@ todo.md
 checkpoint*
 moral_choices/
 project/
+models/
+moral_reasoning_analysis.html
 !sample_filtered_responses_sorted.csv
 !data.zip
 !best_model.pt
