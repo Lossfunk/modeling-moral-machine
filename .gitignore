@@ -12,6 +12,8 @@ moral_choices/
 project/
 models/
 moral_reasoning_analysis.html
+uv.lock
 !sample_filtered_responses_sorted.csv
 !data.zip
 !best_model.pt
+uv.lock
